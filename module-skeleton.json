@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-white-label-react-inertia",
+  "capabilityKey": "liberusoftware/module-crm-white-label",
+  "presentation": "laravel-inertia-react",
+  "package": "@liberusoftware/module-crm-white-label-react-inertia",
+  "foundation": "module-boilerplate-react-inertia",
+  "foundationCommit": "5a2d7f53327e9648efd68af033e1876ce1cf20f0",
+  "canonicalPlan": "projects/crm/nextjs/white-label.md",
+  "presentationPlan": "projects/crm/react/white-label.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
